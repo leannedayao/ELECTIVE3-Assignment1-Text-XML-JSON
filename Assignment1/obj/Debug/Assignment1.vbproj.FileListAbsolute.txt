@@ -1,0 +1,11 @@
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.vbprojAssemblyReference.cache
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.cache
+C:\Users\leanne\Documents\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\leanne\Documents\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\leanne\Documents\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\leanne\Documents\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\leanne\Documents\Assignment1\Assignment1\obj\Debug\Assignment1.Assignment1.resources
